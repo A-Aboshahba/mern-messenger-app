@@ -30,7 +30,7 @@ Realtime chat application where you can add your friends and get connected with 
 
 ### Built With
 
-- Front-end -> React.js, Axios, React-router-dom, Socket.io-client, Timeago.js, CSS.
+- Front-end -> React.js, Axios, Context-API, React-router-dom, Socket.io-client, Timeago.js, CSS.
 
 - Back-end -> Node.js, Express.js, Bycrypt, Multer, Socket.io.
 
@@ -40,7 +40,7 @@ Realtime chat application where you can add your friends and get connected with 
 
 ## Getting Started
 
-Front-end basically built with React.js, using Axios to make asynchronous HTTP requests to REST endpoints, handling routing with React-router-dom, for realtime chat using Websockets I used Socket.io-client in client side, using Timeago.js to estimate time created for message or post and finally styled the pages with CSS.
+Front-end basically built with React.js, using Axios to make asynchronous HTTP requests to REST endpoints, Context-API for managing aplication state, handling routing with React-router-dom, for realtime chat using Websockets I used Socket.io-client in client side, using Timeago.js to estimate time created for message or post and finally styled the pages with CSS.
 
 Back-end was built with Node.js and Espress.js, using Bycrypt to hash passwords, Multer to upload files and images to the server, Socket.io enables low-latency, bidirectional and event-based communication, finally used Mongoose as Mongo database.
 
