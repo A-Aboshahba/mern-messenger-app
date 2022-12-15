@@ -96,8 +96,8 @@ Back-end was built with Node.js and Espress.js, using Bycrypt to hash passwords,
 
 ## Usage
 
-<img src="node-rest-api/public/images/readme/1.png" alt="Logo" width="900" height="700">
-<img src="node-rest-api/public/images/readme/2.png" alt="Logo" width="900" height="700">
+<img src="node-rest-api/public/images/readme/1.png" alt="Logo" width="600" height="300">
+<img src="node-rest-api/public/images/readme/2.png" alt="Logo" width="600" height="300">
 
 Firstly, you need to craeate an account, find your friends and add them then you can go to the messenger page and chat with them, also you can see which friends of yours are online.
 
